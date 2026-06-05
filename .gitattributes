@@ -1,2 +1,4 @@
+weights.zip filter=lfs diff=lfs merge=lfs -text
+dataset.zip filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
