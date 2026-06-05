@@ -1,0 +1,9 @@
+names:
+- free
+- busy
+- partial
+nc: 3
+path: C:\Users\nsti-\Desktop\Smart parking\smart_parking_yolo\dataset
+test: images/test
+train: images/train
+val: images/val
